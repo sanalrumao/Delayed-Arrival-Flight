@@ -6,11 +6,11 @@ This project aims to analyze Delayed in Arrival Flights of LAS data.The goal is 
 
 Data Cleaning & Preprocessing: Handle missing values, normalize data, and ensure consistency.
 
-Exploratory Data Analysis (EDA): Identify best-selling games, popular platforms, and regional sales trends.
+Exploratory Data Analysis (EDA): Identify Delayed in Arrival Flights.
 
-Trend Analysis: Examine sales trends over the years and how different genres perform.
+Trend Analysis: Examine Delayed and Arrival Timmings
 
-Predictive Modeling: Use regression models to predict sales based on various features.
+Predictive Modeling: Use regression models to predict Delay based on various features.
 
 Data Visualization: Generate graphs and charts for better insights.
 
@@ -34,7 +34,7 @@ plotly (Interactive visualizations)
 
 The dataset includes details such as:
 
-carrier_code
+carrier_code  
 date	
 flight_number	
 tail_number	
