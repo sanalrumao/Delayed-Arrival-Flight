@@ -66,10 +66,10 @@ delay_national_aviation_system_minutes
 
 delay_security_minutes	 
 
-delay_late_aircraft_arrival_minutes
+delay_late_aircraft_arrival_minutes  
 
 
 
-**Result**
+***Result***
 
 The model achieved an accuracy of 86%, with a precision of 90% and recall of 1 (adjust with your actual metrics). Feature importance shows that departure delay and time of day are strong predictors of arrival delays
