@@ -1,9 +1,9 @@
-# **Project Overview**
+## Project Overview
 
 This project aims to analyze Delayed in Arrival Flights of LAS data.The goal is to help better understand the key factors contributing to delays and improve forecasting.Using Python, we perform data cleaning, exploratory data analysis (EDA), visualization, and predictive modeling to gain insights into this industry.
 
 
-**Objectives**
+## Objectives
 
 Data Cleaning & Preprocessing: Handle missing values, normalize data, and ensure consistency.
 
@@ -16,7 +16,7 @@ Predictive Modeling: Use regression models to predict Delay based on various fea
 Data Visualization: Generate graphs and charts for better insights.
 
 
-**Tech Stack**
+## Tech Stack
 
 Programming Language: Python
 
@@ -33,7 +33,7 @@ scikit-learn (Machine learning models)
 plotly (Interactive visualizations)
 
 
-**Dataset**
+## Dataset
 
 The dataset includes details such as:
 
@@ -73,6 +73,6 @@ delay_late_aircraft_arrival_minutes
 
 
 
-**Result**
+## Result
 
 The model achieved an accuracy of 86%, with a precision of 90% and recall of 1 (adjust with your actual metrics). Feature importance shows that departure delay and time of day are strong predictors of arrival delays
