@@ -18,10 +18,9 @@ Data Visualization: Generate graphs and charts for better insights.
 
 ## Tech Stack
 
-Programming Language: Python
+**Programming Language:** Python
 
-Libraries Used:
-
+**Libraries Used:** 
 pandas (Data manipulation)
 
 numpy (Numerical analysis)
