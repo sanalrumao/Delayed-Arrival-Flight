@@ -34,22 +34,38 @@ plotly (Interactive visualizations)
 
 The dataset includes details such as:
 
-carrier_code  
-date	 
+carrier_code 
+
+date	
+
 flight_number	  
+
 tail_number	 
+
 origin_airport	 
+
 scheduled_arrival_time	 
+
 actual_arrival_time	  
+
 scheduled_elapsed_time_minutes	 
+
 actual_elapsed_time_minutes	  
+
 arrival_delay_minutes	 
+
 wheels-on_time	 
+
 taxi-in_time_minutes	 
+
 delay_carrier_minutes	 
+
 delay_weather_minutes	 
+
 delay_national_aviation_system_minutes	 
+
 delay_security_minutes	 
+
 delay_late_aircraft_arrival_minutes
 
 
